@@ -7,8 +7,11 @@ Curso Tecnologia em Sistemas para Internet na UniALFA (conclusão em 2026) e há
 ### 🛠️ Tecnologias
 
 **Front-end:** React · React Native (Expo) · TypeScript · JavaScript · Tailwind CSS
+
 **Back-end:** Node.js · Express · Java · Spring Boot · PHP · Laravel
+
 **Banco de dados:** PostgreSQL · MySQL · Drizzle ORM · TypeORM
+
 **DevOps e qualidade:** Git · GitHub Actions · Docker · testes manuais e BDD
 
 ### 🚀 Projetos em destaque
